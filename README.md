@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MirzaMahzaib/MirzaMahzaib/main/github_banner.png" alt="Mahzaib Mirza — Full Stack Developer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/MirzaMahzaib/Mahzaib-Mirza/main/github_banner.png" alt="Mahzaib Mirza — Full Stack Developer" width="100%"/>
 </div>
 
 <br/>
